@@ -17,6 +17,6 @@ $ wethr --imperial
 ```
 
 ## Build
-Use (Snapcraft)[https://snapcraft.io/] to build the application.
+Use [Snapcraft](https://snapcraft.io/) to build the application.
 
 This demonstrates the use of the `nodejs-version` parameter to build using an more to-to-date version of nodejs.
